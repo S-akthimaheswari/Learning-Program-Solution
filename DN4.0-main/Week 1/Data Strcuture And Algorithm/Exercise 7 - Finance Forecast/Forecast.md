@@ -20,7 +20,7 @@ Using recursion, we only need to know...
 Recursion uses stacks for the function call. The stack memory is limited. Using Iteration over Recursion is recommended.<br> <br>
 We can use a Dynamic Programming technique called "Memoization" to speed up the process by not calculating the already calculated sub-problems
 
-Time Complexity
+## Time Complexity
 The function makes one recursive call per year, so:
 
 Time Complexity: O(n)
